@@ -14,7 +14,7 @@ Caso queira ver uma demonstração online, acesse esse link: [wesleysouza.dev/pr
 - Composer
 
 
-Rodar os comandos:
+Com seu Docker Desktop iniciado, rodar os comandos:
 
 #### Instalar dependencias e iniciar serviço
 `./vendor/bin/sail composer install`
