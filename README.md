@@ -18,15 +18,18 @@ Rodar os comandos:
 
 #### Instalar dependencias e iniciar serviço
 `./vendor/bin/sail composer install`
+
 `./vendor/bin/sail up`
 
-### Acessar ambiente de desenvolvimento
+#### Acessar ambiente de desenvolvimento
 `./vendor/bin/sail shell`
 
-### Rodar migrations e seeders
+#### Rodar migrations e seeders
 `./vendor/bin/sail php artisan migrate`
+
 `./vendor/bin/sail php artisan db:seed --class=UsersTableSeeder`
+
 `./vendor/bin/sail php artisan db:seed --class=PostsTableSeeder`
 
-### Acessar rota
+#### Acessar rota
 `http://127.0.0.1/blog`
