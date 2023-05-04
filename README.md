@@ -6,7 +6,7 @@ Através do próprio navegador você poderá ver o tempo que cada requisição l
 
 ### Demo
 
-Caso queira ver uma demonstração online, acesse esse link: [wesleysouza.dev/projetos/redbelt/optimized-query-laravel](https://wesleysouza.dev/projetos/redbelt/optimized-query-laravel)
+Caso queira ver uma demonstração online, acesse esse link: [https://wesleysouza.dev/projetos/redbelt/sql-performance/](https://wesleysouza.dev/projetos/redbelt/sql-performance/)
 
 ### Pré requisitos
 
